@@ -2,18 +2,14 @@
 <html lang="en">
 
 <head>
-    <?php
-    // include "./login/index.php";
-    // include "./login/register.php";
-    // include "./login/index.php";
-    ?>
+    
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
   <title>Yummy Bootstrap Template - Index</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
-
+  
   <!-- Favicons -->
   <link href="assets/img/favicon.png" rel="icon">
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
@@ -29,7 +25,7 @@
   <link href="assets/vendor/aos/aos.css" rel="stylesheet">
   <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
   <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
-
+  <link rel="stylesheet" href="../backend/vendor/fontawesome-free/all.min.css">
   <!-- Template Main CSS File -->
   <link href="assets/css/main.css" rel="stylesheet">
 
